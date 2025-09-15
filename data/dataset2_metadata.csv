@@ -1,0 +1,13 @@
+sample_id,day,replicate,stage,cell line,condition
+day7_rep1_wt,7,1,cardiac progenitor,hiPSC,isogenic wildtype
+day7_rep2_wt,7,2,cardiac progenitor,hiPSC,isogenic wildtype
+day7_rep1_mut,7,1,cardiac progenitor,hiPSC,missense mutation
+day7_rep2_mut,7,2,cardiac progenitor,hiPSC,missense mutation
+day15_rep1_wt,15,1,cardiomyocyte ,hiPSC,isogenic wildtype
+day15_rep2_wt,15,2,cardiomyocyte ,hiPSC,isogenic wildtype
+day15_rep1_mut,15,1,cardiomyocyte ,hiPSC,missense mutation
+day15_rep2_mut,15,2,cardiomyocyte ,hiPSC,missense mutation
+day32_rep1_wt,32,1,cardiomyocyte ,hiPSC,isogenic wildtype
+day32_rep2_wt,32,2,cardiomyocyte ,hiPSC,isogenic wildtype
+day32_rep1_mut,32,1,cardiomyocyte ,hiPSC,missense mutation
+day32_rep2_mut,32,2,cardiomyocyte ,hiPSC,missense mutation
