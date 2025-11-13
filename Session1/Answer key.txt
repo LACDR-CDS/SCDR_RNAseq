@@ -1,0 +1,11 @@
+Answer key
+
+Alignment files:
+alignment_group1: cardiomyocytes
+alignment_group2: ESCs
+alignment_group3: motor neurons
+
+Count matrices:
+count_matrix_1: motor neurons
+count_matrix_2: cardiomyocytes
+count_matrix_3: ESCs

@@ -1,0 +1,13 @@
+Publications:
+
+Session 1: 
+Cardiomyocyte dataset:PMID
+ESC dataset: PMID
+Motor neuron dataset: PMID
+
+
+Session2: PMID 30948719
+
+Sessions 3, 4:
+Drugs: PMID
+GATA4: PMID
