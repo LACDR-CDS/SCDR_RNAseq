@@ -1,13 +1,14 @@
 Publications:
 
 Session 1: 
-Cardiomyocyte dataset:PMID
-ESC dataset: PMID
-Motor neuron dataset: PMID
+Cardiomyocyte dataset: PMID 
+Embryonic stem cell dataset: PMID
+Motor neuron dataset: PMID 35750046
 
 
-Session2: PMID 30948719
+Session 2: PMID 30948719
 
 Sessions 3, 4:
 Drugs: PMID
-GATA4: PMID
+GATA4 dataset (group 7): PMID 27984724
+TBX5 dataset (group 8): PMID 30464173
