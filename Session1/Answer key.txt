@@ -2,10 +2,15 @@ Answer key
 
 Alignment files:
 alignment_group1: cardiomyocytes
-alignment_group2: ESCs
-alignment_group3: motor neurons
+alignment_group2: embryonic stem cells
+alignment_group3: motor neurons
 
 Count matrices:
 count_matrix_1: motor neurons
 count_matrix_2: cardiomyocytes
-count_matrix_3: ESCs
+count_matrix_3: embryonic stem cells
+
+Marker genes:
+embryonic stem cells: POU5F1, NANOG, SOX2, DPPA4, TDGF1, LIN28A, ZFP42, DNMT3B, GDF3, TERT
+cardiomyocytes: MYH6, MYH7, TNNT2, ACTC1, TNNI1, MYL7, MYL4, MYL3, MYBPC3, NKX2-5, GATA4, TTN, DES
+motor neurons: STMN2, NEFM, NEFL, MAP2, MAPT, SLC5A7, SLC18A3, CHAT, SNAP25, GAP43, NKX6-1, GRIA2
