@@ -1,0 +1,5 @@
+sample_id,day,replicate,stage,cell_line,condition
+day7_rep1_wt,7,1,cardiac progenitor,hiPSC,isogenic wildtype
+day7_rep2_wt,7,2,cardiac progenitor,hiPSC,isogenic wildtype
+day7_rep1_mut,7,1,cardiac progenitor,hiPSC,missense mutation
+day7_rep2_mut,7,2,cardiac progenitor,hiPSC,missense mutation

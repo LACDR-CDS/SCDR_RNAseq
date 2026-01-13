@@ -1,0 +1,7 @@
+sample_id,sample_id,day,replicate,stage,cell line,condition
+day30_rep1_tbx5,day30_rep1_tbx5,30.0,1,cardiomyocyte,hiPSC,tbx5
+day30_rep3_tbx5_ge,day30_rep3_tbx5_ge,30.0,3,cardiomyocyte,hiPSC,tbx5_ge
+day30_rep2_tbx5,day30_rep2_tbx5,30.0,2,cardiomyocyte,hiPSC,tbx5
+day30_rep2_tbx5_ge,day30_rep2_tbx5_ge,30.0,2,cardiomyocyte,hiPSC,tbx5_ge
+day30_rep1_tbx5_oe,day30_rep1_tbx5_oe,30.0,1,cardiomyocyte,hiPSC,tbx5_oe
+day30_rep2_tbx5_oe,day30_rep2_tbx5_oe,30.0,2,cardiomyocyte,hiPSC,tbx5_oe
