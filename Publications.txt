@@ -8,7 +8,8 @@ Motor neuron dataset: PMID 35750046
 Session 2: PMID 30948719
 
 Sessions 3, 4:
-Drugs (group 1,2,3,4, backup 7, 8): PMID 39261481
+NKX2-5 dataset (group 1): PMID 29636455
+Drugs (group 2,3,4, backup 7, 8): PMID 39261481
 GATA4 dataset (group 5): PMID 27984724
 TBX5 dataset (group 6): PMID 30464173
-NKX2-5 dataset: PMID 29636455
+

@@ -1,21 +1,7 @@
-	treatment	Concentration	cell_line	cell_type	replicate
-CTRL_1	Control	0nM	MSN05	cardiomyocytes	1
-CTRL_2	Control	0nM	MSN05	cardiomyocytes	2
-CTRL_3	Control	0nM	MSN05	cardiomyocytes	3
-CTRL_4	Control	0nM	MSN05	cardiomyocytes	4
-CTRL_5	Control	0nM	MSN05	cardiomyocytes	5
-CTRL_6	Control	0nM	MSN05	cardiomyocytes	6
-CTRL_7	Control	0nM	MSN05	cardiomyocytes	7
-CTRL_8	Control	0nM	MSN05	cardiomyocytes	8
-CTRL_9	Control	0nM	MSN05	cardiomyocytes	9
-CTRL_10	Control	0nM	MSN05	cardiomyocytes	10
-CTRL_11	Control	0nM	MSN05	cardiomyocytes	11
-CTRL_12	Control	0nM	MSN05	cardiomyocytes	12
-EPI_1	Epirubicin	2uM	MSN05	cardiomyocytes	1
-EPI_2	Epirubicin	2uM	MSN05	cardiomyocytes	2
-EPI_3	Epirubicin	2uM	MSN05	cardiomyocytes	3
-EPI_4	Epirubicin	2uM	MSN05	cardiomyocytes	4
-GEF_1	Gefitinib	1uM	MSN05	cardiomyocytes	1
-GEF_2	Gefitinib	1uM	MSN05	cardiomyocytes	2
-GEF_3	Gefitinib	1uM	MSN05	cardiomyocytes	3
-GEF_4	Gefitinib	1uM	MSN05	cardiomyocytes	4
+sample_id,day,replicate,stage,cell line,condition
+NKX2-5_Ctrl_1,10.0,1,cardiomyocyte,hiPSC,control
+NKX2-5_Ctrl_2,10.0,2,cardiomyocyte,hiPSC,control
+NKX2-5_Ctrl_2,10.0,3,cardiomyocyte,hiPSC,control
+NKX2-5_KO_1,10.0,1,cardiomyocyte,hiPSC,NKX2-5 knock-out
+NKX2-5_KO_2,10.0,2,cardiomyocyte,hiPSC,NKX2-5 knock-out
+NKX2-5_KO_3,10.0,3,cardiomyocyte,hiPSC,NKX2-5 knock-out
