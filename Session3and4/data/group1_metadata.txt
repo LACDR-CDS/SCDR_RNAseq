@@ -1,7 +1,0 @@
-sample_id,day,replicate,stage,cell line,condition
-NKX2-5_Ctrl_1,10.0,1,cardiomyocyte,hiPSC,control
-NKX2-5_Ctrl_2,10.0,2,cardiomyocyte,hiPSC,control
-NKX2-5_Ctrl_2,10.0,3,cardiomyocyte,hiPSC,control
-NKX2-5_KO_1,10.0,1,cardiomyocyte,hiPSC,NKX2-5 knock-out
-NKX2-5_KO_2,10.0,2,cardiomyocyte,hiPSC,NKX2-5 knock-out
-NKX2-5_KO_3,10.0,3,cardiomyocyte,hiPSC,NKX2-5 knock-out
